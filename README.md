@@ -3,7 +3,7 @@
 - 🎓Recent graduate from Fullstack Academy - one of the leading software engineering bootcamps in the country.
 - 🌱 I’m currently working on my personal projects, drilling Leetcode questions and preparing for the interviews;
 - ⭐ I live in New York City.
-- 🪐 Looking forward to learn more about data visualization, blockchain, machine learning
+- 🪐 Looking forward to know more about data visualization, blockchain, machine learning
 - :speech_balloon: Ask me about full stack development!  
 - :mailbox: You can reach me with the links below
 
