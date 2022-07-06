@@ -9,7 +9,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philsmirnoff@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philsmirnoff)
-[![Porfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://philsmirnoff.github.io/Portfolio/)
+[![Porfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://iyakupov-dev.com/)
 
 ##### Technical skills🛠 
 
