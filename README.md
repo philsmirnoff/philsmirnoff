@@ -1,6 +1,6 @@
 ### Hey there, I'm Ilfir:
 
-- 🎓Recent graduate from Fullstack Academy - one of the leading software engineering bootcamps in the country.
+
 - 🌱 I’m currently working on my personal projects, drilling Leetcode questions and preparing for the interviews;
 - ⭐ I live in New York City.
 - 🪐 Looking forward to know more about data visualization, blockchain, machine learning
