@@ -1,7 +1,7 @@
 ### Hey there, I'm Ilfir:
 
 
-- 🌱 I’m currently working on my personal projects, drilling Leetcode questions and preparing for the interviews;
+- 🌱 I’m a Software Engineer Intern in TabTap, a restaurant technology company;
 - ⭐ I live in New York City.
 - 🪐 Looking forward to know more about data visualization, blockchain, machine learning
 - :mailbox: You can reach me with the links below
