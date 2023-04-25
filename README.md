@@ -1,7 +1,7 @@
 ### Hey there, I'm Ilfir:
 
 
-- 🌱 I’m a Software Engineer in TabTap, a restaurant technology start-up
+- 🌱 I’m a Software Engineer in [![TabTap](https://taptabapp.com/)], a restaurant technology start-up
 - ⭐ I live in New York City.
 - 🪐 Looking forward to know more about data visualization, blockchain, machine learning
 - :mailbox: You can reach me with the links below
