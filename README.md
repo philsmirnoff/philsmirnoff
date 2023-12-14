@@ -4,7 +4,7 @@
 - 🌱 I’m a Software Engineer in [TabTap](https://taptabapp.com/), a restaurant technology start-up
 - ⭐ I live in New York City.
 - 🪐 Looking forward to know more about data visualization, blockchain, machine learning
-- Currently working on my AWS Cloud Practitioner Certificate
+- Currently studying for AWS Cloud Practitioner Certificate Exam
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilfiryakupov.dev@gmail.com)
