@@ -3,8 +3,8 @@
 
 - 🌱 I’m a Software Engineer in [TabTap](https://taptabapp.com/), a restaurant technology start-up
 - ⭐ I live in New York City.
-- 🪐 Looking forward to know more about data visualization, blockchain, machine learning
--  AWS Certified Developer Associate, currently studying for AWS Certified Solutions Architect Associate exam.
+- 🌥️ AWS Certified Developer Associate, currently studying for AWS Certified Solutions Architect Associate exam.
+- 🥋 BJJ Blue Belt under Clark Gracie.
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilfiryakupov.dev@gmail.com)
